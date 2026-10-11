@@ -1,0 +1,9 @@
+manju_studio/data/*.json
+manju_studio/data/*.log
+manju_studio/data/*.pid
+manju_studio/data/*.png
+manju_studio/renders/*
+manju_studio/uploads/*
+__pycache__/
+*.pyc
+.DS_Store
